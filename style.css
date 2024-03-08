@@ -1,0 +1,191 @@
+#container{
+border: solid;
+border-radius: solid 1px;
+padding: 80px;
+margin: 2%;
+background-color: beige;
+margin-left: 0%;
+}
+.h1{
+    display: flex;
+    gap: 1200px;
+    border-radius: solid 1px;
+    padding-left: 30px;
+    background-color: darkcyan;
+}
+
+p2{
+    font-size: 12px;
+}
+#navbar{
+    display: flex;
+    gap: 30px;
+}
+#nav-bar{
+    display: flex;
+    gap: 90px;
+}
+#image{
+    background-image:url(image/head.avif) ;
+    background-repeat: no-repeat;
+    background-size: 1400px;
+    background-position: 0%;
+    height: 1000px;
+    width: 1450px;
+    text-align: justify;
+    padding: 9%;
+
+}
+.text-a{
+position: absolute;
+text-align: center;
+padding: 30%;
+color: black;
+}
+ps{
+    color: orange;
+
+}
+h1{
+    color: black;
+}
+button{
+    color:white;
+    background-color: orange;
+}
+#section{
+
+    display: flex;
+    gap: 60px;
+}
+.section1{
+    display: flex;
+    gap: 40px;
+
+}
+p{
+    direction: inherit;
+    margin-top: 10px;
+    
+}
+#service{
+   display: flex; 
+   border: solid 1px;
+   background-color: beige;
+   padding: 10%;
+}
+#within{
+    display: flex;
+    gap: 90px;
+    padding: 10%;
+}
+#services{
+    text-align: center;
+    color: orange;
+}
+#section2{
+    display: flex;
+    gap: 250px;
+    background-color: beige;
+    padding: 10%;
+}
+#section3{
+    display: flex;
+    gap: 550px;
+    background-color:beige;
+    background-image:url()
+}
+
+#back-image{
+
+    background-image: url(image/img3.jpeg);
+    background-repeat: no-repeat;
+    background-size: 700px,650px;
+}
+.section4{
+    display: flex;
+    gap: 100px;
+    background-color: orange;
+    
+}
+
+#label{
+    gap: 200px;
+    float: left;
+    background-color: lightseagreen;
+    width: 80%;
+    padding: 9%;
+    
+}
+#text-b{
+    text-align: center;
+    width: 40%;
+}
+#text{
+    text-align: center;
+    background-color:beige;
+}
+#section5{
+    display: flex;
+    gap: 70px;
+    padding: 20%,10%;
+}
+#text1{
+    text-align:center ;
+    background-color: beige;
+}
+#text2{
+    text-align: center;
+    background-color: beige;
+}
+#image2{
+    display: flex;
+    gap: 180px;
+    padding: 10%;
+    width: 1850px;
+    height:400px ;
+}
+#section6{
+gap: 20%;
+text-align: center;
+background-color:orange;
+padding: 9%;
+color: black;
+}
+#section7{
+    display: flex;
+    gap: 110px;
+    padding: 8%;
+    background-color: darkcyan;
+    padding: 10%;
+    padding-left: 10%;
+
+}
+p6{
+    color: orange;
+}
+#c{
+    color: orange;
+}
+#back1-image{
+    background-image: url(image/relo1.jpg);
+    background-repeat: no-repeat;
+}
+#text-c{
+    text-align: center;
+padding: 3%;
+
+}
+#back2-image{
+    background-image: url(image/rel2.jpg);
+    background-repeat: no-repeat;
+}
+#back3-image{
+    background-image: url(image/relo3.jpg);
+    background-repeat: no-repeat;
+}
+@media screen and (min-width: 480px){
+    body{
+
+    }
+}
